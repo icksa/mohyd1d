@@ -1,0 +1,2 @@
+double gamma;
+double abar;
